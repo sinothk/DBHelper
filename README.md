@@ -13,7 +13,7 @@
 # Step 2. Add the dependency
 
      dependencies {
-	implementation 'com.github.sinothk:DBHelper:1.0.1108'
+		implementation 'com.github.sinothk:DBHelper:1.0.1108'
      }
 
 
