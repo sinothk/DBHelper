@@ -16,6 +16,9 @@
 		implementation 'com.github.sinothk:DBHelper:1.0.1108'
      }
 
+# 使用
+
+  DBHelper.with(this).***
 
 
 android 数据库操作！Powered By xUtil
